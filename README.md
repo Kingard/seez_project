@@ -1,7 +1,7 @@
 # A simple data wrangling project for SEEZ
 
 **This is a simple data wrangling project where I passed-in a csv file containing car 
-information from the MENA region. Below, I have written a Python script using the OOP paradigm.
+information from the MENA (Middle East and North Africa) region. Below, I have written a Python script using the OOP paradigm.
 The procedures I carried out on the data are represented by the class-based methods. I also
 highlighted my thought process in developing some of the algorithms used.**
 
